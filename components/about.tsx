@@ -27,7 +27,7 @@ export default function About() {
         feeling of finally figuring out a solution to a problem. My core stack
         is{" "}
         <span className="font-medium">
-          Java, DSA, zsFull Stack 
+          Java, DSA, Full Stack 
         </span>
         . I am always looking to
         learn new technologies. I am currently looking for a{" "}
@@ -37,7 +37,7 @@ export default function About() {
 
       <p>
         <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and reading self development books. I also enjoy{" "}
+        video games, watching movies, reading self development books & sometimes gym . I also enjoy{" "}
         <span className="font-medium">learning new things</span>. I am currently
         learning about{" "}
         <span className="font-medium"> philosophy</span>.

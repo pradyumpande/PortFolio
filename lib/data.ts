@@ -34,8 +34,8 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Sant Gadge Baba Amravati University (10th and 12th)",
-    location: "Amravti",
+    title: "Maharashtra State Board (10th and 12th)",
+    location: "Amravati",
     description:
       "Scored 90.60 % in 10th and 96 % in 12th in Computer Science",
     icon: React.createElement(LuGraduationCap),
