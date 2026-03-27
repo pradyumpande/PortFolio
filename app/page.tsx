@@ -1,5 +1,5 @@
 import About from "@/components/about";
-import SpotifyPlayer from '@/components/SpotifyPlayer';
+//import SpotifyPlayer from '@/components/SpotifyPlayer';
 import Contact from "@/components/contact";
 import Experience from "@/components/experience";
 import Intro from "@/components/intro";
@@ -12,10 +12,6 @@ export default function Home() {
   return (
     <main className="flex flex-col items-center px-8">
       <Intro /> 
-     <section>
-        <h3>Now Playing on Spotify</h3>
-        <SpotifyPlayer />
-      </section>
       <SectionDivider />
       <About />
       <Projects />
