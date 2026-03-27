@@ -106,20 +106,17 @@ export const projectsData = [
 ] as const;
 
 export const skillsData = [
-  "Java",
   "DSA",
   "Python",
-  "JavaScript",
-  "React",
-  "Node.js",
+  "Cloud Services",
+  "Agentic AI",
   "Git",
-  "SpringBoot",
   "Unity",
-  "MongoDB",
-  "Redux",
-  "MySQL",
+  "Machine Learning",
+  "Generative AI",
+  "Big Query",
   "Postman",
-  "Express",
+  "Vertex AI",
   "Django",
-  "AWS",
+  "GCP",
 ] as const;

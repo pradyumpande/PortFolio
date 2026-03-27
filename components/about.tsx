@@ -23,11 +23,11 @@ export default function About() {
         <span className="font-medium">Computer Science and Engineering</span>, I decided to pursue my
         passion for programming. 
         <span>My favorite language in programming</span> is the
-        JavaScript. I <span className="underline">love</span> the
+        Python. I <span className="underline">love</span> the
         feeling of finally figuring out a solution to a problem. My core stack
         is{" "}
         <span className="font-medium">
-          Java, DSA, Full Stack 
+          Vertex AI, Generative AI, Google Cloud Platform
         </span>
         . I am always looking to
         learn new technologies. I am currently looking for a{" "}
