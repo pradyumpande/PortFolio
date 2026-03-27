@@ -1,5 +1,5 @@
 import About from "@/components/about";
-//import SpotifyPlayer from '@/components/SpotifyPlayer';
+
 import Contact from "@/components/contact";
 import Experience from "@/components/experience";
 import Intro from "@/components/intro";
