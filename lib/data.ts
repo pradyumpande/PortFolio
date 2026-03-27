@@ -61,7 +61,7 @@ export const experiencesData = [
     title: "Associate Software Engineer at Accenture",
     location: "Bangalore",
     description:
-      " Spring Boot , Java Development , JPA , Spring Framework & Sonarqube",
+      "GCP, Vertex AI, AI workflow and Integration, Agentic AI, Big Query, GenAI",
     icon: React.createElement(CgWorkAlt),
     date: "2024 - present",
   },
