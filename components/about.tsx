@@ -31,7 +31,7 @@ export default function About() {
         </span>
         . I am always looking to
         learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
+        <span className="font-medium">full-time position</span> as a Generative AI
         developer.
       </p>
 
