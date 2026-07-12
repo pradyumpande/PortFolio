@@ -94,7 +94,7 @@ export default function ChatBot({ open, onClose }: ChatBotProps) {
           {
             role: "assistant",
             content:
-              "Hmm, I couldn't reach the AI service. Please try again in a moment.",
+              "Hmm, This idiot forgot to buy credits, Until then please go through Portfolio page ",
           },
         ]);
       }
